@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb316c4-b47e-421e-a1db-ec68fcb754b5" name="Default Changelist" comment="" />
+    <list default="true" id="4eb316c4-b47e-421e-a1db-ec68fcb754b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dictioneries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictioneries/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E02_lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E02_lists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,18 +78,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="221" />
     <option name="y" value="71" />
     <option name="width" value="2189" />
     <option name="height" value="1225" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,9 +101,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../E02_lists" />
   </component>
   <component name="RunDashboard">
@@ -153,10 +162,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24570674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22126816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,13 +190,11 @@
     <entry file="file://$PROJECT_DIR$/phone_book" />
     <entry file="file://$PROJECT_DIR$/find_contact_by_town.py" />
     <entry file="file://$PROJECT_DIR$/add_new_contact.py" />
-    <entry file="file://$PROJECT_DIR$/delete_contact.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/helper.py" />
     <entry file="file://$PROJECT_DIR$/phonebook.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/delete_contact.py" />
     <entry file="file://$PROJECT_DIR$/main_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">

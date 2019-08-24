@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cde022-48c7-4e19-81e5-877cc627d19d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p05_optimized_banking_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p06_animals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dictioneries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictioneries/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../E02_lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E02_lists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p01_distance_between_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/p01_distance_between_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p02_closest_two_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/p02_closest_two_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p03_rectangle_position.py" beforeDir="false" afterPath="$PROJECT_DIR$/p03_rectangle_position.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p04_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/p04_exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/point.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../phone_book_console_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phone_book_console_app/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p06_animals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="220" />
     <option name="y" value="70" />
     <option name="width" value="2190" />
@@ -95,6 +77,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -239,8 +222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
@@ -251,7 +233,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43140027" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/p06_animals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+        <state relative-caret-position="1600">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
